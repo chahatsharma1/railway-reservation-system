@@ -10,8 +10,8 @@ public class User {
     static int id=100;
     static List<User> uList=new ArrayList<>();
     static {
-        uList.add(new User("Krishnan", 906, 1234, 0));
-        uList.add(new User("Meghna", 907, 1234, 0));
+        uList.add(new User("Chahat", 906, 1001, 0));
+        uList.add(new User("Adarsh", 907, 1897, 0));
     }
 
     static int ticket[][]=new int[10][6];
