@@ -6,5 +6,5 @@ Username, Password to run this file
 
 --User Page
 
-* User Login : Krishnan; Meghna
-* User pin : 1234; 1234
+* User Login : Chahat; Adarsh
+* User pin : 1001; 1897
